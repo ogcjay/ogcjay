@@ -10,5 +10,3 @@
 
 ## LANGUAGES
 
- <a href="">
-    <img alt="total stars" title="Langauge: TypeScript" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=1f1f1f&logo=typescript"/></a>

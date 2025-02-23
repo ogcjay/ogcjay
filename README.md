@@ -22,8 +22,8 @@
 
 ---
 
-<details>
-<summary><h2><img width="25px" heigth="25px" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"> What I use <img width="25px" heigth="25px" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"></h2></summary>
+<detailsk>
+<summary><h2><img width="25px" heigth="25px" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"> My languages ​​and tools <img width="25px" heigth="25px" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"></h2></summary>
 
 <h3>📖 Programming and Markup Languages</h3>
 

@@ -17,7 +17,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=29D0F7&width=435&lines=a+developer+with+passion" alt="Typing SVG" /></a>
 </p>
 <p align="center">
- <img width="300px" heigth="auto" src="https://i.ibb.co/W4DKqwfy/f6e4c90d-d9eb-4003-92d5-6ea7c6df8f09.png" alt="logo">
+ <img width="300px" heigth="auto" src="https://i.ibb.co/LXq1rf0y/how-to-sell-drugs-online-fast-shiny-flakes.jpg" alt="logo">
  </p>
 
 
